@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "testing-replica-ac9b7",
+    "production": "production-replica-5404b"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
